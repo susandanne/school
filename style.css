@@ -1,0 +1,76 @@
+.head {
+    background-color: #F0FFF0;
+}
+
+.any {
+    color: #21B573;
+}
+
+a {
+    color: #21B573;
+}
+
+.button {
+    background-color: #21B573;
+    ;
+    padding: 9px 40px;
+    border-radius: 30px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.icon .border {
+    background-color: #F0FFF0;
+    padding: 40px 30px;
+    transition: .5s all ease-in;
+    border-radius: 5px;
+}
+
+.icon .border:hover {
+    background-color: white;
+    box-shadow: 0 0 10px #ccc;
+    padding: 40px 30px;
+    transition: .5s all ease-in;
+    border-radius: 5px;
+}
+
+.icon .border img {
+    height: 70px;
+    width: 50px;
+}
+
+.card {
+    border: none;
+    padding: 15px;
+    background-color: white;
+    box-shadow: 0 0 10px #ccc;
+    ;
+    border-radius: 5px !important;
+}
+
+.icon span {
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.icon p {
+    font-weight: bold;
+}
+
+.card span img {
+    width: 18px;
+    height: 18px;
+}
+
+.testimonial img {
+    height: 100px;
+    width: 100px;
+}
+
+footer p {
+    margin-bottom: 0;
+}
+
+.footer-bg {
+    background-color: #282531;
+}
